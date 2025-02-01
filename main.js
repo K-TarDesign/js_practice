@@ -1,3 +1,7 @@
-const content = document.querySelector("#content");
+const container = document.querySelector("#container");
 
-content.textContent("It's Raining!!!");
+const content = document.createElement("div");
+content.classList.add("content");
+content.textContent = "It's Raining!";
+
+container.appendChild(content);
