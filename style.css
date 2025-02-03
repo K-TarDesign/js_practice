@@ -1,0 +1,11 @@
+h1 {
+    font-size: 36px;
+}
+
+.btn {
+    padding: 10px;
+    border: 2px solid black;
+    margin: 7px;
+    font-weight: bold;
+    font-size: 24px;
+}
