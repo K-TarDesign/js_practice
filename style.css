@@ -1,3 +1,9 @@
+* {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     font-size: 36px;
 }
@@ -8,4 +14,13 @@ h1 {
     margin: 7px;
     font-weight: bold;
     font-size: 24px;
+    background-color: teal;
+    color: white;
+    border-radius: .5em;
+}
+
+.btn:hover {
+    cursor: pointer;
+    color: black;
+    background-color: lightseagreen;
 }
