@@ -18,5 +18,21 @@
 .btn:hover {
     cursor: pointer;
     color: black;
-    background-color: lightseagreen;
+    background-color: aquamarine;
+}
+
+.box {
+    height: 2rem;
+    width: 2rem;
+    border: 1px solid black;
+    background-color: teal;
+}
+
+.box.shift {
+    background-color: aquamarine;
+}
+
+.box.mega {
+    height: 5rem;
+    width: 5rem;
 }
