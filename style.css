@@ -32,7 +32,15 @@
     background-color: aquamarine;
 }
 
-.box.mega {
-    height: 5rem;
-    width: 5rem;
+#container {
+    width: 90%;
+    border: 1px solid black;
+
+    /* Flexbox Properties */
+    display: flex;
+}
+
+#boxCount {
+    min: 5;
+    max: 50:
 }
