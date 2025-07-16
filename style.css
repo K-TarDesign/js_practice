@@ -39,8 +39,3 @@
     /* Flexbox Properties */
     display: flex;
 }
-
-#boxCount {
-    min: 5;
-    max: 50:
-}
