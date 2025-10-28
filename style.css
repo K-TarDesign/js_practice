@@ -5,11 +5,11 @@
 }
 
 .btn {
-    padding: 10px;
+    padding: 5px;
     border: 2px solid black;
     margin: 7px;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 14px;
     background-color: teal;
     color: white;
     border-radius: .5em;
@@ -19,6 +19,10 @@
     cursor: pointer;
     color: black;
     background-color: aquamarine;
+}
+
+.btn:active {
+    color: white;
 }
 
 .box {
